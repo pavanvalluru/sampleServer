@@ -1,45 +1,52 @@
 {
-    "users": [{
+    "users": [
+              {
               "id": 1,
               "firstName": "Leanne",
               "lastName": "Graham",
               "username": "Leanne",
-              "email": "Sincere@april.biz"
+              "email": "Sincere@april.biz",
+              "imageURL": "http://placehold.it/150/92c952"
               },
               {
               "id": 2,
               "firstName": "Ervin",
               "lastName": "Howell",
               "username": "Ervin",
-              "email": "Shanna@melissa.tv"
+              "email": "Shanna@melissa.tv",
+              "imageURL": "http://placehold.it/150/771796"
               },
               {
               "id": 3,
               "firstName": "Clementine",
               "lastName": "Bauch",
               "username": "Clementine",
-              "email": "Nathan@yesenia.net"
+              "email": "Nathan@yesenia.net",
+              "imageURL": "http://placehold.it/150/24f355"
               },
               {
               "id": 4,
               "firstName": "Patricia",
               "lastName": "Lebsack",
               "username": "Lebsack",
-              "email": "Sincere@april.biz"
+              "email": "Sincere@april.biz",
+              "imageURL": "http://placehold.it/150/d32776"
               },
               {
               "id": 5,
               "firstName": "Chelsey",
               "lastName": "Dietrich",
               "username": "Chelsey",
-              "email": "Shanna@melissa.tv"
+              "email": "Shanna@melissa.tv",
+              "imageURL": "http://placehold.it/150/f66b97"
               },
               {
               "id": 6,
               "firstName": "Dennis",
               "lastName": "Schulist",
               "username": "Dennis",
-              "email": "Nathan@yesenia.net"
+              "email": "Nathan@yesenia.net",
+              "imageURL": "http://placehold.it/150/56a8c2"
               }
-              ]
+    ]
 }
