@@ -1,45 +1,45 @@
 {
-    {
-        "id": 1,
-        "firstName": "Leanne",
-        "lastName": "Graham",
-        "username": "Leanne",
-        "email": "Sincere@april.biz",
-    },
-    {
-        "id": 2,
-        "firstName": "Ervin",
-        "lastName": "Howell",
-        "username": "Ervin",
-        "email": "Shanna@melissa.tv",
-    },
-    {
-        "id": 3,
-        "firstName": "Clementine",
-        "lastName": "Bauch",
-        "username": "Clementine",
-        "email": "Nathan@yesenia.net",
-    },
-    {
-        "id": 4,
-        "firstName": "Patricia",
-        "lastName": "Lebsack",
-        "username": "Lebsack",
-        "email": "Sincere@april.biz",
-    },
-    {
-        "id": 5,
-        "firstName": "Chelsey",
-        "lastName": "Dietrich",
-        "username": "Chelsey",
-        "email": "Shanna@melissa.tv",
-    },
-    {
-        "id": 6,
-        "firstName": "Dennis",
-        "lastName": "Schulist",
-        "username": "Dennis",
-        "email": "Nathan@yesenia.net",
-    },
-    
+    "users": [{
+              "id": 1,
+              "firstName": "Leanne",
+              "lastName": "Graham",
+              "username": "Leanne",
+              "email": "Sincere@april.biz"
+              },
+              {
+              "id": 2,
+              "firstName": "Ervin",
+              "lastName": "Howell",
+              "username": "Ervin",
+              "email": "Shanna@melissa.tv"
+              },
+              {
+              "id": 3,
+              "firstName": "Clementine",
+              "lastName": "Bauch",
+              "username": "Clementine",
+              "email": "Nathan@yesenia.net"
+              },
+              {
+              "id": 4,
+              "firstName": "Patricia",
+              "lastName": "Lebsack",
+              "username": "Lebsack",
+              "email": "Sincere@april.biz"
+              },
+              {
+              "id": 5,
+              "firstName": "Chelsey",
+              "lastName": "Dietrich",
+              "username": "Chelsey",
+              "email": "Shanna@melissa.tv"
+              },
+              {
+              "id": 6,
+              "firstName": "Dennis",
+              "lastName": "Schulist",
+              "username": "Dennis",
+              "email": "Nathan@yesenia.net"
+              }
+              ]
 }
